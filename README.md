@@ -20,11 +20,16 @@ Second one simulate filling all required fields with valid data till confirm ord
 ## Technologies Used
 IDE: NetBeans Eclipse
 
+java version: 15.0.1
+
 Framework: Selenium 
 
 Design Pattern: Page Opject Model
 
 Language: Java
+
+## For video Recording
+Download file that locate inside folder "Nopcommerce-Shoppingcart"
 
 ## Time to submit the task
 7 hours
