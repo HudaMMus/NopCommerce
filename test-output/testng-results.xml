@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44596" started-at="2021-02-16T11:40:14Z" finished-at="2021-02-16T11:40:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44596" started-at="2021-02-16T11:40:14Z" finished-at="2021-02-16T11:40:59Z">
+      <class name="Test.TestBuyScenario">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test.TestBuyScenario@1b8a29df]" name="beforeTest" is-config="true" duration-ms="5264" started-at="2021-02-16T13:40:14Z" finished-at="2021-02-16T13:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC1()[pri:1, instance:Test.TestBuyScenario@1b8a29df]" name="TC1" duration-ms="19231" started-at="2021-02-16T13:40:20Z" finished-at="2021-02-16T13:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC2()[pri:2, instance:Test.TestBuyScenario@1b8a29df]" name="TC2" duration-ms="16164" started-at="2021-02-16T13:40:39Z" depends-on-methods="Test.TestBuyScenario.TC1" finished-at="2021-02-16T13:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC3()[pri:3, instance:Test.TestBuyScenario@1b8a29df]" name="TC3" duration-ms="3259" started-at="2021-02-16T13:40:55Z" finished-at="2021-02-16T13:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test.TestBuyScenario@1b8a29df]" name="afterTest" is-config="true" duration-ms="657" started-at="2021-02-16T13:40:58Z" finished-at="2021-02-16T13:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test.TestBuyScenario -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
