@@ -24,7 +24,7 @@ java version: 15.0.1
 
 Framework: Selenium 
 
-Design Pattern: Page Opject Model
+Design Pattern: Page Object Model
 
 Language: Java
 
